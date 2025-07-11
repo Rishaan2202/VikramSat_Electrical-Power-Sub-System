@@ -21,4 +21,10 @@ Yuppp, I'm up again! Everything going kinda chaotic here, just because of tight 
 Yeah, it's the day-4 and still a bit work done. But as compared to previous days, it's more ig. Here, take a look:-
 <br>
 ![image](https://github.com/user-attachments/assets/2ed77745-8a41-4d4a-a37a-1b8611984a44)
-<h2>Time Invested: ~0.75Hours</h2>
+<h2>Time Invested: ~0.75 Hours</h2>
+
+# July 11, 2025, Day-5!
+Huhhh, that was a week full of tiring examinations. By the way, did a little work today. Here, see it:-
+<br>
+![Screenshot 2025-07-11 230220](https://github.com/user-attachments/assets/d608c50e-9236-492c-bd9c-8406f3d139c5)
+<h2>Time Invested: ~1.25 Hours</h2>
