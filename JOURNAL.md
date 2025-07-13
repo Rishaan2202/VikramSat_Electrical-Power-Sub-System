@@ -43,9 +43,17 @@ Huhhh, that was a week full of tiring examinations. By the way, did a little wor
 <h2>Time Invested: ~1.25 Hours</h2>
 
 
-# July 12, 2025, Day-5!
+# July 12, 2025, Day-6!
 Yooo, I completed the battery chargers today!!!. It was very tiring. See this,
 <br>
 <br>
 <img width="748" height="234" alt="image" src="https://github.com/user-attachments/assets/e97c3cef-8ad5-4ade-a69c-23df6a219e0c" />
 <h2>Time Invested: 3 Hours</h2>
+
+
+# July 13, 2025, Day-7!
+Yeahhhh!, I'm back with something interesting. I finalised the 3.3V buck converter for the load. Also did some meeting kinda stuff with the project head and we finalised to have rp2350a as the power management IC. Negligible work done on the schematic today. Nevermind, just take a look:-
+<br>
+<br>
+<img width="791" height="293" alt="Screenshot 2025-07-13 183851" src="https://github.com/user-attachments/assets/9ed165b2-f506-4b7f-9abf-f7fb98921c4b" />
+<h2>Time Invested: 2 Hours</h2>
