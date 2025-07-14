@@ -57,3 +57,10 @@ Yeahhhh!, I'm back with something interesting. I finalised the 3.3V buck convert
 <br>
 <img width="791" height="293" alt="Screenshot 2025-07-13 183851" src="https://github.com/user-attachments/assets/9ed165b2-f506-4b7f-9abf-f7fb98921c4b" />
 <h2>Time Invested: 2 Hours</h2>
+
+# July 14, 2025, Day-8!
+What's up, I'm back with something interesting. Well, it was a very chaotic day for me and I could only invest a bit time for this. that's the completion ofthe 3.3V Buck Converter. It was quite interesting and easy. Take this-
+<br>
+<br>
+<img width="785" height="330" alt="Screenshot 2025-07-14 230419" src="https://github.com/user-attachments/assets/a7a4a496-aa52-4c89-b6a6-9274500e25cb" />
+<h2>Time Invested: 0.75 Hours</h2>
