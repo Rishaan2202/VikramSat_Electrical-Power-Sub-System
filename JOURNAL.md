@@ -72,4 +72,4 @@ Yoooo!!! Today I kinda wasted my time just to add this RP2350A PMIC to my schema
 <br>
 <br>
 <img width="850" height="582" alt="Screenshot 2025-07-15 191457" src="https://github.com/user-attachments/assets/d132e577-460c-462e-b57b-cff899c2d4d2" />
-<h2>Time Invested: ~1.25 Hours</h2>
+<h2>Time Invested: ~1.5 Hours</h2>
