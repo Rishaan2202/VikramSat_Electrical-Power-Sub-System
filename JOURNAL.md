@@ -52,11 +52,12 @@ Yooo, I completed the battery chargers today!!!. It was very tiring. See this,
 
 
 # July 13, 2025, Day-7!
-Yeahhhh!, I'm back with something interesting. I finalised the 3.3V buck converter for the load. Also did some meeting kinda stuff with the project head and we finalised to have rp2350a as the power management IC. Negligible work done on the schematic today. Nevermind, just take a look:-
+Yeahhhh!, I'm back with something interesting. I finalised the 3.3V buck converter for the load. Also did some meeting kinda stuff with the project head and we finalised to have RP2350A as the power management IC. Negligible work done on the schematic today. Nevermind, just take a look:-
 <br>
 <br>
 <img width="791" height="293" alt="Screenshot 2025-07-13 183851" src="https://github.com/user-attachments/assets/9ed165b2-f506-4b7f-9abf-f7fb98921c4b" />
 <h2>Time Invested: 2 Hours</h2>
+
 
 # July 14, 2025, Day-8!
 What's up, I'm back with something interesting. Well, it was a very chaotic day for me and I could only invest a bit time for this. that's the completion ofthe 3.3V Buck Converter. It was quite interesting and easy. Take this-
@@ -64,3 +65,11 @@ What's up, I'm back with something interesting. Well, it was a very chaotic day 
 <br>
 <img width="785" height="330" alt="Screenshot 2025-07-14 230419" src="https://github.com/user-attachments/assets/a7a4a496-aa52-4c89-b6a6-9274500e25cb" />
 <h2>Time Invested: 0.75 Hours</h2>
+
+
+# July 15, 2025, Day-9!
+Yoooo!!! Today I kinda wasted my time just to add this RP2350A PMIC to my schematic, cause I'm just 14 and struggling to find my way in this electrc world. Whatever, just see this:-
+<br>
+<br>
+<img width="850" height="582" alt="Screenshot 2025-07-15 191457" src="https://github.com/user-attachments/assets/d132e577-460c-462e-b57b-cff899c2d4d2" />
+<h2>Time Invested: ~1.25 Hours</h2>
