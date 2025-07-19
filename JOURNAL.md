@@ -73,3 +73,19 @@ Yoooo!!! Today I kinda wasted my time just to add this RP2350A PMIC to my schema
 <br>
 <img width="850" height="582" alt="Screenshot 2025-07-15 191457" src="https://github.com/user-attachments/assets/d132e577-460c-462e-b57b-cff899c2d4d2" />
 <h2>Time Invested: ~1.5 Hours</h2>
+
+
+# July 17, 2025, Day-9!
+Hello there!!! I'm back with the start to add the Type-C port on the PCB and kinda wasted the time to know how to do it, yet no efficient outcome. well see it:-
+<br>
+<br>
+<img width="780" height="647" alt="Screenshot 2025-07-17 211422" src="https://github.com/user-attachments/assets/95e9c9c4-57f6-4f5e-81ac-ddb37e44fe12" />
+<h2>Time Invested: ~1.5 Hours</h2>
+
+
+# July 19, 2025, Day-9!
+Yeah, It's me again!!! Today I made the Battery Protection unit. Well that's just a BMS kinda IC, but I like exagerrating names, so yeah, see this
+<br>
+<br>
+<img width="1003" height="505" alt="image" src="https://github.com/user-attachments/assets/241c5986-761e-422d-8af9-7ba809341720" />
+<h2>Time Invested: ~0.5 Hours</h2>
