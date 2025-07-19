@@ -75,7 +75,7 @@ Yoooo!!! Today I kinda wasted my time just to add this RP2350A PMIC to my schema
 <h2>Time Invested: ~1.5 Hours</h2>
 
 
-# July 17, 2025, Day-9!
+# July 17, 2025, Day-10!
 Hello there!!! I'm back with the start to add the Type-C port on the PCB and kinda wasted the time to know how to do it, yet no efficient outcome. well see it:-
 <br>
 <br>
@@ -83,7 +83,7 @@ Hello there!!! I'm back with the start to add the Type-C port on the PCB and kin
 <h2>Time Invested: ~1.5 Hours</h2>
 
 
-# July 19, 2025, Day-9!
+# July 19, 2025, Day-11!
 Yeah, It's me again!!! Today I made the Battery Protection unit. Well that's just a BMS kinda IC, but I like exagerrating names, so yeah, see this
 <br>
 <br>
