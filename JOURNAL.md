@@ -44,7 +44,7 @@ Huhhh, that was a week full of tiring examinations. By the way, did a little wor
 
 
 # July 12, 2025, Day-6!
-Yooo, I completed the battery chargers today!!!. It was very tiring. See this,
+Yooo, I completed the battery chargers today!!!. It was very tiring. See this:-
 <br>
 <br>
 <img width="748" height="234" alt="image" src="https://github.com/user-attachments/assets/e97c3cef-8ad5-4ade-a69c-23df6a219e0c" />
@@ -60,7 +60,7 @@ Yeahhhh!, I'm back with something interesting. I finalised the 3.3V buck convert
 
 
 # July 14, 2025, Day-8!
-What's up, I'm back with something interesting. Well, it was a very chaotic day for me and I could only invest a bit time for this. that's the completion ofthe 3.3V Buck Converter. It was quite interesting and easy. Take this-
+What's up, I'm back with something interesting. Well, it was a very chaotic day for me and I could only invest a bit time for this. that's the completion ofthe 3.3V Buck Converter. It was quite interesting and easy. Take this:-
 <br>
 <br>
 <img width="785" height="330" alt="Screenshot 2025-07-14 230419" src="https://github.com/user-attachments/assets/a7a4a496-aa52-4c89-b6a6-9274500e25cb" />
@@ -84,8 +84,16 @@ Hello there!!! I'm back with the start to add the Type-C port on the PCB and kin
 
 
 # July 19, 2025, Day-11!
-Yeah, It's me again!!! Today I made the Battery Protection unit. Well that's just a BMS kinda IC, but I like exagerrating names, so yeah, see this
+Yeah, It's me again!!! Today I made the Battery Protection unit. Well that's just a BMS kinda IC, but I like exagerrating names, so yeah, see this:-
 <br>
 <br>
 <img width="1003" height="505" alt="image" src="https://github.com/user-attachments/assets/241c5986-761e-422d-8af9-7ba809341720" />
+<h2>Time Invested: ~0.5 Hours</h2>
+
+
+# July 20, 2025, Day-12!
+How're you all!!! I am here today with the completion of the C-Type Receptacle on the schematic. Well, we haven't figured out anything about the PMIC(RP2350A), as we have to change it because of it's power consumption. Well, here's the schematic of the day:-
+<br>
+<br>
+<img width="994" height="397" alt="Screenshot 2025-07-21 224359" src="https://github.com/user-attachments/assets/60bd71cf-09f5-4712-944b-be8b6b482e31" />
 <h2>Time Invested: ~0.5 Hours</h2>
