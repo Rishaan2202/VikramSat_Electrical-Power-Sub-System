@@ -97,3 +97,11 @@ How're you all!!! I am here today with the completion of the C-Type Receptacle o
 <br>
 <img width="994" height="397" alt="Screenshot 2025-07-21 224359" src="https://github.com/user-attachments/assets/60bd71cf-09f5-4712-944b-be8b6b482e31" />
 <h2>Time Invested: ~0.5 Hours</h2>
+
+
+# July 23, 2025, Day-13!
+I'm back with only a bit things done today. Well I was guided to add LICENSE and README.md in this repository. I also had a meeting with my teammates to figure out if there was something wrong with the power board, and fortunately, there wasn't any flaw, just the values of some components were not fixed as I was not able to figure them out, but hopefully I guess they will be fixed after a few tutorials. Well, I also did very minor changes to the C-Type receptacle today. There's nothing to see in it, but just see it:-
+<br>
+<br>
+<img width="429" height="414" alt="image" src="https://github.com/user-attachments/assets/c447735c-f32b-434f-bf98-095034dcbf2d" />
+<h2>Time Invested: ~1.75 Hours</h2>
