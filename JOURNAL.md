@@ -1,5 +1,5 @@
 ---
-title: "VikranSAT EPS Board"
+title: "VikramSAT EPS Board"
 author: "@Rishaan"
 description: "Electrical Power Sub-System for VikramSAT"
 created_at: "2025-07-01"
