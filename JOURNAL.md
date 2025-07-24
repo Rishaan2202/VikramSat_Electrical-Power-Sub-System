@@ -108,8 +108,8 @@ I'm back with only a bit things done today. Well I was guided to add LICENSE and
 
 
 # July 24, 2025, Day-13!
-I'm back today with a good news that I found a very nice Power Management IC which STPMIC1A for the EPS. I also did maximum connections of the current sensor. take a look:-
+I'm back today with a good news that I found a very nice Power Management IC which is STPMIC1A, for the EPS. I also did all the connections of the current sensors. The schematic looks like a monster now, take a look:-
 <br>
 <br>
-<img width="234" height="200" alt="Screenshot 2025-07-24 154631" src="https://github.com/user-attachments/assets/d39e05d3-22f7-4b6f-aca3-d87056b26c95" />
+<img width="779" height="560" alt="image" src="https://github.com/user-attachments/assets/2e13b494-095d-47be-a840-0ccbec967cc8" />
 <h2>Time Invested: ~1.25 Hours</h2>
