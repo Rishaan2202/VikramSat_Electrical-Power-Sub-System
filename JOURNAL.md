@@ -112,4 +112,4 @@ I'm back today with a good news that I found a very nice Power Management IC whi
 <br>
 <br>
 <img width="779" height="560" alt="image" src="https://github.com/user-attachments/assets/2e13b494-095d-47be-a840-0ccbec967cc8" />
-<h2>Time Invested: ~1.25 Hours</h2>
+<h2>Time Invested: ~2.25 Hours</h2>
