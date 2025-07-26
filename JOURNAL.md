@@ -113,3 +113,11 @@ I'm back today with a good news that I found a very nice Power Management IC whi
 <br>
 <img width="779" height="560" alt="image" src="https://github.com/user-attachments/assets/2e13b494-095d-47be-a840-0ccbec967cc8" />
 <h2>Time Invested: ~2.25 Hours</h2>
+
+
+# July 26, 2025, Day-14!
+Hello again!!! I am back with something really exciting. I did the connections of PMIC and the configuration has been changed from 4P1S*2 to 8P1S! A few ICs have also been reduced such as one battery charging IC with its protectin unit. It was a drastic change and a lot of effor for me today, but here's the outcome:-
+<br>
+<br>
+<img width="618" height="592" alt="Screenshot 2025-07-26 172438" src="https://github.com/user-attachments/assets/03df405c-b1ad-4373-892c-a23ee1f0f7b5" />
+<h2>Time Invested: ~2 Hours</h2>
