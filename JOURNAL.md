@@ -121,3 +121,11 @@ Hello again!!! I am back with something really exciting. I did the connections o
 <br>
 <img width="618" height="592" alt="Screenshot 2025-07-26 172438" src="https://github.com/user-attachments/assets/03df405c-b1ad-4373-892c-a23ee1f0f7b5" />
 <h2>Time Invested: ~2 Hours</h2>
+
+
+# July 27, 2025, Day-15!
+Yeahhh!!! I kinda selected the 5V boost converter for the Magnetorqueours. You might be wondering why I am having a separate boost converter for the Magnetorqueours, that's because of low current and high voltage output from the PMIC which could only be tolerated by other 5V load except the Magnetorqueours. I have built it partially, I'll do it properly tomorrow, so here's the converter/regulator:-
+<br>
+<br>
+<img width="1019" height="610" alt="image" src="https://github.com/user-attachments/assets/eb1550c2-8c94-4083-b8c3-3368a7c47bf0" />
+<h2>Time Invested: ~0.75Hours</h2>
