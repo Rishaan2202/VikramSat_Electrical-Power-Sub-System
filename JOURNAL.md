@@ -129,3 +129,8 @@ Yeahhh!!! I kinda selected the 5V boost converter for the Magnetorqueours. You m
 <br>
 <img width="1019" height="610" alt="image" src="https://github.com/user-attachments/assets/eb1550c2-8c94-4083-b8c3-3368a7c47bf0" />
 <h2>Time Invested: ~0.75Hours</h2>
+
+
+# July 28, 2025, Day-16!
+Helloooo again!!! negligible work done today. I just read some articles about the basics of Li-Ion battery chargers to select another battery charger, cause I am not able to understand, interpret and implement the values of a few components exactly for the specific application of ours, and I don't wanna take even a bit of risk. Well no image for today.
+<h2>Time Invested: ~0.5Hours</h2>
