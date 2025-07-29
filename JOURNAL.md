@@ -134,3 +134,11 @@ Yeahhh!!! I kinda selected the 5V boost converter for the Magnetorqueours. You m
 # July 28, 2025, Day-16!
 Helloooo again!!! negligible work done today. I just read some articles about the basics of Li-Ion battery chargers to select another battery charger, cause I am not able to understand, interpret and implement the values of a few components exactly for the specific application of ours, and I don't wanna take even a bit of risk. Well no image for today.
 <h2>Time Invested: ~0.5Hours</h2>
+
+
+# July 29, 2025, Day-17!
+OMG!!! Finally!!! I completed the schematic for the EPS, just footprints of some components are left to be added. See this thing:-
+<br>
+<br>
+<img width="707" height="407" alt="Screenshot 2025-07-29 224543" src="https://github.com/user-attachments/assets/c90d3b93-82c4-4b24-bee2-67768fdd02b3" />
+<h2>Time Invested: ~3.75Hours</h2>
