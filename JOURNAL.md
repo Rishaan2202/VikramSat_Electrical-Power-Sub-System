@@ -142,3 +142,11 @@ OMG!!! Finally!!! I completed the schematic for the EPS, just footprints of some
 <br>
 <img width="707" height="407" alt="Screenshot 2025-07-29 224543" src="https://github.com/user-attachments/assets/c90d3b93-82c4-4b24-bee2-67768fdd02b3" />
 <h2>Time Invested: ~3.75Hours</h2>
+
+
+# July 30, 2025, Day-18!
+Yooo!!! I am finally gonna finish the schematic! Just a few values of components is left. I also added the bus. Take a look:-
+<br>
+<br>
+<img width="1219" height="697" alt="image" src="https://github.com/user-attachments/assets/e5045045-3285-4418-b0b1-b14eee216f4e" />
+<h2>Time Invested: ~3.25Hours</h2>
