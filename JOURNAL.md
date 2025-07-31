@@ -160,4 +160,4 @@ It is a very hard and rigid work for me to build the EPS of VikramSATv0. I worke
 <img width="345" height="351" alt="image" src="https://github.com/user-attachments/assets/a9336002-c1af-4b54-bfdd-5988ad461f64" />
 <h2>Time Invested: ~5.5Hours</h2>
 
-# Total Time Invested- 
+# Total Time Invested ~33.75 Hours
