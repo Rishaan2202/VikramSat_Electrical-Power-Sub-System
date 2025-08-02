@@ -152,12 +152,18 @@ Yooo!!! I am finally gonna finish the schematic! Just a few values of components
 <h2>Time Invested: ~3.25Hours</h2>
 
 
-# July 31, 2025, Day-18!
-It is a very hard and rigid work for me to build the EPS of VikramSATv0. I worked many hours for the completion of this project under the given time, but I failed to do so. I am very dissapointed to say that I was not able to complete the EPS and now it is 31st of July. I am very sorry for that. Here are the images of the work done today:- 
+# July 31, 2025, Day-19!
+It is a very hard and rigid work for me to build the EPS of VikramSATv0. I worked many hours for the completion of this project under the given time for the submission of Undercity, but I failed to do so. I am very dissapointed to say that I was not able to complete the EPS and now it is 31st of July. I am very sorry for that. Here are the images of the work done today:- 
 <br>
 <br>
 <img width="915" height="456" alt="image" src="https://github.com/user-attachments/assets/532b3cd7-1a01-4153-ba81-0e27fede6bd8" />
 <img width="345" height="351" alt="image" src="https://github.com/user-attachments/assets/a9336002-c1af-4b54-bfdd-5988ad461f64" />
 <h2>Time Invested: ~5.5Hours</h2>
 
-# Total Time Invested ~33.75 Hours
+
+# August 1, 2025, Day-20!
+Hello!!! WHat did you think? That I would leave journaling? I'm not that kind of guy dude! I never guve up! Well I will continue journaling till I finish the EPS of VikramSATv0. Here is the image for the work done today:-
+<br>
+<br>
+<img width="581" height="560" alt="Screenshot 2025-08-02 203921" src="https://github.com/user-attachments/assets/5122f869-0eb7-4ec3-8108-4577ce8a8a91" />
+<h2>Time Invested: ~2.75Hours</h2>
