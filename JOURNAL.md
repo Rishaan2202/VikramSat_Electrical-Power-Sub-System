@@ -162,8 +162,18 @@ It is a very hard and rigid work for me to build the EPS of VikramSATv0. I worke
 
 
 # August 1, 2025, Day-20!
-Hello!!! WHat did you think? That I would leave journaling? I'm not that kind of guy dude! I never guve up! Well I will continue journaling till I finish the EPS of VikramSATv0. Here is the image for the work done today:-
+Hello!!! WHat did you think? That I would leave journaling? I'm not that kind of guy dude! I never give up! Well I will continue journaling till I finish the EPS of VikramSATv0. Here is the image for the work done today:-
 <br>
 <br>
 <img width="581" height="560" alt="Screenshot 2025-08-02 203921" src="https://github.com/user-attachments/assets/5122f869-0eb7-4ec3-8108-4577ce8a8a91" />
 <h2>Time Invested: ~2.75Hours</h2>
+
+
+# August 2, 2025, Day-21!
+Yooo!!! I segregated and position all the units of the EPS, but joining them with traces is left. Well, I came to know that KiCAD projects are eligible too in #grounded. So, now I will be preparing for that. Here's the PCB till now:-
+<br>
+<br>
+<img width="594" height="575" alt="Screenshot 2025-08-03 232113" src="https://github.com/user-attachments/assets/fa4e68a9-769f-474f-b337-eb9522ae3e21" />
+<h2>Time Invested: ~3 Hours</h2>
+
+
