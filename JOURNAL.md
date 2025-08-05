@@ -153,7 +153,7 @@ Yooo!!! I am finally gonna finish the schematic! Just a few values of components
 
 
 # July 31, 2025, Day-19!
-It is a very hard and rigid work for me to build the EPS of VikramSATv0. I worked many hours for the completion of this project under the given time for the submission of Undercity, but I failed to do so. I am very dissapointed to say that I was not able to complete the EPS and now it is 31st of July. I am very sorry for that. Here are the images of the work done today:- 
+It is a very hard and rigid work for me to build the EPS of VikramSATv0. I worked many hours for the completion of this project under the given time for the submission of Undercity, but I failed to do so. I am very dissapointed to say that I was not able to complete the EPS and now it is 31st of July (Last date for the submission of project).Heyyy, why is this becoming sad? Don't you know that another program is gonna come? Here are the images of the work done today:- 
 <br>
 <br>
 <img width="915" height="456" alt="image" src="https://github.com/user-attachments/assets/532b3cd7-1a01-4153-ba81-0e27fede6bd8" />
@@ -162,18 +162,25 @@ It is a very hard and rigid work for me to build the EPS of VikramSATv0. I worke
 
 
 # August 1, 2025, Day-20!
-Hello!!! WHat did you think? That I would leave journaling? I'm not that kind of guy dude! I never give up! Well I will continue journaling till I finish the EPS of VikramSATv0. Here is the image for the work done today:-
+Hello!!! What did you think? That I would leave journaling? I'm not that kind of guy dude! I never give up! Well, I mentioned about a program yesterday. And that's gonna be #grounded. I came to know that projects made on KiCAD are eligible for the participation in #grounded, so I'll continue journaling till I finish the EPS of VikramSATv0 and gonna submit it for the PCBA grant. Here is the image for the work done today:-
 <br>
 <br>
 <img width="581" height="560" alt="Screenshot 2025-08-02 203921" src="https://github.com/user-attachments/assets/5122f869-0eb7-4ec3-8108-4577ce8a8a91" />
 <h2>Time Invested: ~2.75Hours</h2>
 
 
-# August 2, 2025, Day-21!
-Yooo!!! I segregated and position all the units of the EPS, but joining them with traces is left. Well, I came to know that KiCAD projects are eligible too in #grounded. So, now I will be preparing for that. Here's the PCB till now:-
+# August 3, 2025, Day-21!
+Yooo!!! I segregated and position all the units of the EPS, but joining them with traces is left. Here's the PCB till now:-
 <br>
 <br>
 <img width="594" height="575" alt="Screenshot 2025-08-03 232113" src="https://github.com/user-attachments/assets/fa4e68a9-769f-474f-b337-eb9522ae3e21" />
 <h2>Time Invested: ~3 Hours</h2>
 
 
+# August 5, 2025, Day-22!
+Yeahhh!!! just did the creation of my project in Groundplane. You might be wondering why it consumed so much time? Well, that's because of the irritating error popping up on my screen after I clicked on the button for the submission of the project. The screenshot was also not being uploaded properly. After a few restarts, it miraclously worked and got submitted. I also hit the exit button on my browser before hitting the commit changes button, so yeah I typed this all for today again, I also changed the theme of my schematic editor to 'The Vampire Theme', pretty cool huh? Well see it yourself (and yeah the dashboard of Groundplane too!):-
+<br>
+<br>
+<img width="1150" height="881" alt="Screenshot 2025-08-05 232945" src="https://github.com/user-attachments/assets/99d70153-e072-4f70-a085-44f8db6d5830" />
+<img width="1256" height="653" alt="Screenshot 2025-08-05 233712" src="https://github.com/user-attachments/assets/a8490373-e863-44d0-b2b2-f181e1e885ee" />
+<h2>Time Invested: ~1.5 Hours</h2>
