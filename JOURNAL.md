@@ -190,5 +190,5 @@ Yeahhh!!! just did the creation of my project in Groundplane. You might be wonde
 Huhhh! I saw a tutorial, did some more traces and yeah, that's all I did today except changing the PCB editor's theme (It looks so cool!). Take a look at the progress:-
 <br>
 <br>
-<img width="528" height="543" alt="image" src="https://github.com/user-attachments/assets/20a5246f-0250-4cfe-8881-0f37be76f282" />
+<img width="532" height="544" alt="image" src="https://github.com/user-attachments/assets/e53b543e-27c1-49d8-bd57-52fc8165ca64" />
 <h2>Time Invested: ~1 Hours</h2>
