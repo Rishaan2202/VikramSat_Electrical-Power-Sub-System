@@ -184,3 +184,11 @@ Yeahhh!!! just did the creation of my project in Groundplane. You might be wonde
 <img width="1150" height="881" alt="Screenshot 2025-08-05 232945" src="https://github.com/user-attachments/assets/99d70153-e072-4f70-a085-44f8db6d5830" />
 <img width="1256" height="653" alt="Screenshot 2025-08-05 233712" src="https://github.com/user-attachments/assets/a8490373-e863-44d0-b2b2-f181e1e885ee" />
 <h2>Time Invested: ~1.5 Hours</h2>
+
+
+# August 7, 2025, Day-23!
+Huhhh! I saw a tutorial, did some more traces and yeah, that's all I did today except changing the PCB editor's theme (It looks so cool!). Take a look at the progress:-
+<br>
+<br>
+<img width="546" height="544" alt="Screenshot 2025-08-07 213256" src="https://github.com/user-attachments/assets/0b9a700b-abf3-40a9-97c6-24e9ced396c7" />
+<h2>Time Invested: ~1.5 Hours</h2>
