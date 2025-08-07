@@ -10,4 +10,4 @@ I have been assigned the duty to make a fully functional Electrical Power Sub-Sy
 <br>
 So, I'm writing this journal which notifies about the progress regularly.
 <br>
-I hope you all will find this quite interesting. That's all for now, for more details do view this repository containing the journal.
+I hope you all will find this quite interesting. That's all for now, for more details do view JOURNAL.md in this repository containing the journal.
