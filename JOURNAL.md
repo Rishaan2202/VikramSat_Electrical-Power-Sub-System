@@ -192,3 +192,11 @@ Huhhh! I saw a tutorial, did some more traces and yeah, that's all I did today e
 <br>
 <img width="532" height="544" alt="image" src="https://github.com/user-attachments/assets/e53b543e-27c1-49d8-bd57-52fc8165ca64" />
 <h2>Time Invested: ~1 Hours</h2>
+
+
+# August 9, 2025, Day-24!
+Okayyy, It's just like I did a bit routing today, but found some repeated routings which was done at 90° by me. The main thing is that I am not able to delete it!!! It may be because of some kinda glitch or something. You know what it means. Restart!!! Huhhh:-
+<br>
+<br>
+<img width="411" height="421" alt="image" src="https://github.com/user-attachments/assets/2de1a7f3-6541-4dfa-8ce4-3d880ea4becc" />
+<h2>Time Invested: ~1.25 Hours</h2>
