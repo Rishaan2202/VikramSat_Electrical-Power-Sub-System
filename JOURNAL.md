@@ -202,6 +202,12 @@ Okayyy, It's just like I did a bit routing today, but found some repeated routin
 <h2>Time Invested: ~1.25 Hours</h2>
 
 
-# August 10, 2025, Day-54!
+# August 10, 2025, Day-25!
 Nahhh!!! I can't find any way to delete a single trace individually. I saw tutorials too, but no outcome. Now I'm gonna leave a complaint or issue kinda thing on GitLab. No image for today, Sorry guysss!!!
 <h2>Time Invested: ~0.25 Hours</h2>
+
+
+# August 12, 2025, Day-26!
+Still not able to fix the problem!!! I also was not able to get any help from GitLab. I also tried to reinstall KiCad. But, that also wasn't helpful. Well I tried to do a little bit of logo editing today. Look at it:-
+<img width="703" height="239" alt="Screenshot 2025-08-12 204831" src="https://github.com/user-attachments/assets/f1a0cfef-b456-4c48-bd04-c4e8af332539" />
+<h2>Time Invested: ~1.75 Hours</h2>
