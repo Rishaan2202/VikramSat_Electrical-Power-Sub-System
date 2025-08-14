@@ -211,3 +211,9 @@ Nahhh!!! I can't find any way to delete a single trace individually. I saw tutor
 Still not able to fix the problem!!! I also was not able to get any help from GitLab. I also tried to reinstall KiCad. But, that also wasn't helpful. Well I tried to do a little bit of logo editing today. Look at it:-
 <img width="703" height="239" alt="Screenshot 2025-08-12 204831" src="https://github.com/user-attachments/assets/f1a0cfef-b456-4c48-bd04-c4e8af332539" />
 <h2>Time Invested: ~1.75 Hours</h2>
+
+
+# August 14, 2025, Day-27!
+Yeahhh!!! Problem solved! I got the answer from KiCad Forum. The issue was that I didn't allow the selections of tracks from the bottom right corner. I did a few connections, but the connection of Battery Charging Unit was completely a mess!!! See it:-
+<img width="551" height="554" alt="image" src="https://github.com/user-attachments/assets/c97ac2ce-3392-46db-b7ff-812ea4200d51" />
+<h2>Time Invested: ~1.75 Hours</h2>
