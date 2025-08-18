@@ -232,8 +232,16 @@ Happy Independence Day!!! So, today is India's Independence day. The atmosphere 
 
 
 # August 16, 2025, Day-29!
-Yeah!!! Most of the traces are done, only Grounds and one trace (Which I was not able to route) are left. I'll do them later. Take a look at this bad boyyy:-
+Yeah!!! Most of the traces are done, only Grounds and a few traces (Which I was not able to route) are left. I'll do them later. Take a look at this bad boyyy:-
 <br>
 <br>
 <img width="542" height="557" alt="image" src="https://github.com/user-attachments/assets/8f17962b-918a-4fd0-84c4-1f642de302ab" />
 <h2>Time Invested: -1 Hours</h2>
+
+
+# August 18, 2025, Day-30!
+Sooo!!! all the rest of traces done except the Common ground. The board looks nice now. I kinda love my hardwork (who doesn't?) Take a look at the PCB:-
+<br>
+<br>
+<img width="358" height="366" alt="image" src="https://github.com/user-attachments/assets/80ddebaa-f124-48f9-9d16-f1560d9de11b" />
+<h2>Time Invested: ~0.75 Hours</h2>
