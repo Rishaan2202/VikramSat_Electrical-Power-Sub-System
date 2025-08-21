@@ -245,3 +245,11 @@ Sooo!!! all the rest of traces done except the Common ground. The board looks ni
 <br>
 <img width="358" height="366" alt="image" src="https://github.com/user-attachments/assets/80ddebaa-f124-48f9-9d16-f1560d9de11b" />
 <h2>Time Invested: ~0.75 Hours</h2>
+
+
+# August 21, 2025, Day-31!
+Yooo!!! I added a GND plane in my project today and also researched a lot about the battery connectors which I was not able to finalise, so I'll do that later:-
+<br>
+<br>
+<img width="715" height="721" alt="Screenshot 2025-08-21 163240" src="https://github.com/user-attachments/assets/0b14433c-892b-4c17-8c15-8f2b8465cdfe" />
+<h2>Time Invested: ~1 Hours</h2>
