@@ -253,3 +253,11 @@ Yooo!!! I added a GND plane in my project today and also researched a lot about 
 <br>
 <img width="715" height="721" alt="Screenshot 2025-08-21 163240" src="https://github.com/user-attachments/assets/0b14433c-892b-4c17-8c15-8f2b8465cdfe" />
 <h2>Time Invested: ~1 Hours</h2>
+
+
+# August 23, 2025, Day-32!
+Yeah!!! A few more 'Grounds' done! I was not able to connect the components and also don't know that are they being connected or ot just by adding a 'through via'. I also researched about the connectors a bit, but I wasn't able to find the footprint, so I left that work for another time. And yeah, that's it for today, but don't forget to see 'The Progress':- 
+<br>
+<br>
+<img width="545" height="556" alt="image" src="https://github.com/user-attachments/assets/b96d86d2-57a9-4998-9201-c23377993b2f" />
+<h2>Time Invested: ~1 Hours</h2>
