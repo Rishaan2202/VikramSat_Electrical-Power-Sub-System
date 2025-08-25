@@ -261,3 +261,11 @@ Yeah!!! A few more 'Grounds' done! I was not able to connect the components and 
 <br>
 <img width="545" height="556" alt="image" src="https://github.com/user-attachments/assets/b96d86d2-57a9-4998-9201-c23377993b2f" />
 <h2>Time Invested: ~1 Hours</h2>
+
+
+# August 25, 2025, Day-33!
+Sameeee!!! today also the same thing! I can now only see GNDs all around me, cause I'm kinda 'grounded', yeah, and that's what I am working for. So here's today's pic:- 
+<br>
+<br>
+<img width="542" height="557" alt="Screenshot 2025-08-25 225523" src="https://github.com/user-attachments/assets/147e0608-d904-4c41-885c-a42cbc4c9790" />
+<h2>Time Invested: ~1 Hours</h2>
