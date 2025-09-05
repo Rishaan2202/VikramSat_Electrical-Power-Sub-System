@@ -285,10 +285,18 @@ Yoooo!!! Only 3 ratlines left!!! I am not able to connect these pins. It's kinda
 <img width="540" height="548" alt="image" src="https://github.com/user-attachments/assets/492930d6-c3c8-487e-8780-7a995ddbe2d9" />
 <h2>Time Invested: ~1.25 Hours</h2>
 
-# August 25, 2025, Day-33!
+# September 1, 2025, Day-34!
 Yayyy!!! All the traces done! but there are many DRC errors (Sad Emoji* 3)! I'll do it (maybe I'll be able to do it). So see the 3D thing now. It looks cool, but the borders are also a bit deformed. Huhhh, I'll fix that too:- 
 <br>
 <br>
 <img width="743" height="746" alt="image" src="https://github.com/user-attachments/assets/d8729094-0bb1-4ce3-986f-60c9a4ced90e" />
 <h2>Time Invested: ~1 Hours</h2>
+
+
+# September 1, 2025, Day-34!
+There's a bad newzzz!!! I tried to fix the borders, but I came to know the the borders which I drew earlier were longer!!! Now I have to review a few connections again to ensure that they fit in the PCB! Here's the image, you can review the progress:- 
+<br>
+<br>
+<img width="336" height="340" alt="image" src="https://github.com/user-attachments/assets/aec734cc-6e14-4583-9d48-d4e9b3206552" />
+<h2>Time Invested: ~0.75 Hours</h2>
 
