@@ -293,10 +293,18 @@ Yayyy!!! All the traces done! but there are many DRC errors (Sad Emoji* 3)! I'll
 <h2>Time Invested: ~1 Hours</h2>
 
 
-# September 1, 2025, Day-34!
+# September 5, 2025, Day-35!
 There's a bad newzzz!!! I tried to fix the borders, but I came to know the the borders which I drew earlier were longer!!! Now I have to review a few connections again to ensure that they fit in the PCB! Here's the image, you can review the progress:- 
 <br>
 <br>
 <img width="336" height="340" alt="image" src="https://github.com/user-attachments/assets/aec734cc-6e14-4583-9d48-d4e9b3206552" />
+<h2>Time Invested: ~0.75 Hours</h2>
+
+
+# September 7, 2025, Day-36!
+Uhmmm!!! I don't think that I would like to write anything, cause the image would tell it all!! (Sad Emoji*3). 181 errors, seriously?:-
+<br>
+<br>
+<img width="820" height="596" alt="image" src="https://github.com/user-attachments/assets/2ba40bd8-f965-4b44-bf86-895933413e08" />
 <h2>Time Invested: ~0.75 Hours</h2>
 
