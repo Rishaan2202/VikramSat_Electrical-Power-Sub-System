@@ -308,3 +308,9 @@ Uhmmm!!! I don't think that I would like to write anything, cause the image woul
 <img width="820" height="596" alt="image" src="https://github.com/user-attachments/assets/2ba40bd8-f965-4b44-bf86-895933413e08" />
 <h2>Time Invested: ~0.75 Hours</h2>
 
+# September 9, 2025, Day-3!
+Seriouslyyy!!! Can you just see what that is? IG Digikey or mouser gave me wrong footprints! How to FIX it!!!!!:-
+<br>
+<br>
+<img width="490" height="555" alt="image" src="https://github.com/user-attachments/assets/8832a933-502b-4d6f-9ee6-b6bb2336e6cf" />
+<h2>Time Invested: ~1 Hours</h2>
