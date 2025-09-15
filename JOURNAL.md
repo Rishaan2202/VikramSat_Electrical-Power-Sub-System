@@ -324,3 +324,7 @@ Yeah, there's progress. I fixed that 'pad problem', but IDK how the border got d
 <img width="332" height="45" alt="image" src="https://github.com/user-attachments/assets/5f28352d-63bd-4b4f-b724-fff6b5d64866" />
 <h2>Time Invested: ~2 Hours</h2>
 
+
+# September 15, 2025, Day-39!
+Just a few 'Warnings' corrected today. Nothin' much:-
+<h2>Time Invested: ~1.5 Hours</h2>
