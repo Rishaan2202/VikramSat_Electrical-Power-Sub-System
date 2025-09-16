@@ -328,3 +328,11 @@ Yeah, there's progress. I fixed that 'pad problem', but IDK how the border got d
 # September 15, 2025, Day-39!
 Just a few 'Warnings' corrected today. Nothin' much:-
 <h2>Time Invested: ~1.5 Hours</h2>
+
+
+# September 16, 2025, Day-40!
+Ohhh! Silly me!, the borders weren't deleted, they were just hidden. I am gonna ignore the errors of the FETs, cause the pads intersect, but I saw the datasheet, and found that they are intentionally sorted. So IG the PCB will be completed in 2 or 3 days. Take a look at the 3D view. It's kinda "WOW, did I really made it?":-
+<br>
+<br>
+<img width="784" height="775" alt="image" src="https://github.com/user-attachments/assets/0c6f97e3-453a-4bf9-b4f0-86cfc36ad4a7" />
+<h2>Time Invested: ~1.15 Hours</h2>
