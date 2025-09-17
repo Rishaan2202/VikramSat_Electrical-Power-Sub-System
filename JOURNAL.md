@@ -342,4 +342,4 @@ I, I did it!!!!!! I made the PCB! It's so cool that I made my first PCB! Here, s
 <br>
 <br>
 <img width="922" height="707" alt="image" src="https://github.com/user-attachments/assets/aaef9f92-73ef-45e6-b313-1989f585ff8e" />
-<h2>Time Invested: ~1.15 Hours</h2>
+<h2>Time Invested: ~1.75 Hours</h2>
