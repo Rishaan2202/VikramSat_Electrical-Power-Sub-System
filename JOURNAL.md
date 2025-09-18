@@ -337,9 +337,16 @@ Ohhh! Silly me!, the borders weren't deleted, they were just hidden. I am gonna 
 <img width="784" height="775" alt="image" src="https://github.com/user-attachments/assets/0c6f97e3-453a-4bf9-b4f0-86cfc36ad4a7" />
 <h2>Time Invested: ~1.15 Hours</h2>
 
-# September 16, 2025, Day-41!
+# September 17, 2025, Day-41!
 I, I did it!!!!!! I made the PCB! It's so cool that I made my first PCB! Here, see the final view, well the 3D model for many aren't there.:-
 <br>
 <br>
 <img width="922" height="707" alt="image" src="https://github.com/user-attachments/assets/aaef9f92-73ef-45e6-b313-1989f585ff8e" />
 <h2>Time Invested: ~1.75 Hours</h2>
+
+
+# September 18, 2025, Day-42!
+I did a few formalities for the grant in my repo today. Well, there is more to do. I also talked with my teammates regarding this and did the file work which were just lying in my Laptop.
+<br>
+<br>
+<h2>Time Invested: ~2.15 Hours</h2>
