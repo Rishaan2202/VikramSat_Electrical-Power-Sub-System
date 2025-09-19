@@ -224,7 +224,7 @@ Yeahhh!!! Problem solved! I got the answer from KiCad Forum. The issue was that 
 
 
 # August 15, 2025, Day-28!
-Happy Independence Day!!! So, today is India's Independence day. The atmosphere is filled with nationalism all around. TOday I did most of the traces. Only a few remaining. Take a look at the PCB:-
+Happy Independence Day!!! So, today is India's Independence day. The atmosphere is filled with nationalism all around. Today I did most of the traces. Only a few remaining. Take a look at the PCB:-
 <br>
 <br>
 <img width="447" height="461" alt="Screenshot 2025-08-15 181234" src="https://github.com/user-attachments/assets/a45fd60f-d6b8-4a0e-9265-50a9cec9b81c" />
@@ -350,3 +350,10 @@ I did a few formalities for the grant in my repo today. Well, there is more to d
 <br>
 <br>
 <h2>Time Invested: ~2.15 Hours</h2>
+
+
+# September 19, 2025, Day-43!
+Nothing much today, just a bit of thickening of traces!
+<br>
+<br>
+<h2>Time Invested: ~0.75 Hours</h2>
