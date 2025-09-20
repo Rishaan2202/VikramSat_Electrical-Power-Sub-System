@@ -22,7 +22,7 @@ So, you might have gone throught JOURNAL.md, pretty interesting, right? Well, he
 Boom!!! It's Vampire Theme. I hope you like it. Here comes the PCB:-
 <br>
 <br>
-<img width="502" height="505" alt="Screenshot 2025-09-17 234051" src="https://github.com/user-attachments/assets/093f5806-27c7-4bf8-86e3-7008a5562ae2" />
+<img width="632" height="636" alt="image" src="https://github.com/user-attachments/assets/7a9336db-d704-4517-a46e-b6b521117bc8" />
 <br>
 <br>
 I hope you like them, well I couldn't do this better than that, cause I'm just 14!!!
