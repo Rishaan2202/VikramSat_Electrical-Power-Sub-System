@@ -357,3 +357,15 @@ Nothing much today, just a bit of thickening of traces!
 <br>
 <br>
 <h2>Time Invested: ~0.75 Hours</h2>
+
+
+# September 17, 2025, Day-44!
+This is it! Success! It is the first time I felt like I did something big. I submitted the EPS!!!:-
+<br>
+<br>
+<img width="657" height="214" alt="image" src="https://github.com/user-attachments/assets/976a3e7e-cebd-43b7-a491-aa8aecef50d9" />
+<h2>Time Invested: ~3.15 Hours</h2>
+
+<h1>Total Days Spent = 44
+<br>
+Total Hours Spent = 78</h1>
