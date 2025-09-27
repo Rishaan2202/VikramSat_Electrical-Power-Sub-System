@@ -34,4 +34,4 @@ I hope you all will find this quite interesting. For more details do view JOURNA
 <img src="LCSC.cart.png"/>
 <img src="cart.png"/>
 <br>
-<h3>I hope you like them, well I couldn't do this better than that, cause I'm just 14!!!</h3>
+<h3>I hope you like them, well I couldn't do this better than that, cause I'm just a beginner!!!</h3>
