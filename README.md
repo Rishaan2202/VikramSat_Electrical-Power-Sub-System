@@ -32,5 +32,6 @@ I hope you all will find this quite interesting. For more details do view JOURNA
 <br>
 <h3>Here's the Screenshot of the Cart for both LCSC and JLCPCB:-</h3>
 <img src="LCSC.cart.png"/>
+<img src="cart.png"/>
 <br>
 <h3>I hope you like them, well I couldn't do this better than that, cause I'm just 14!!!</h3>
