@@ -31,7 +31,7 @@ I hope you all will find this quite interesting. For more details do view JOURNA
 <br>
 <br>
 <h3>Here's the Screenshot of the Cart for both LCSC and JLCPCB:-</h3>
-<img width="1903" height="875" alt="Screenshot 2025-09-21 213551" src="https://github.com/user-attachments/assets/5e7d7c01-ca37-4415-b66b-8d7004a69dda" />
-<img width="1895" height="870" alt="image" src="https://github.com/user-attachments/assets/da9b6385-f93f-467b-97a5-2cea12b81f82" />
+<img src="LCSC.cart.png"/>
+<img src="cart.png"/>
 <br>
 <h3>I hope you like them, well I couldn't do this better than that, cause I'm just 14!!!</h3>
